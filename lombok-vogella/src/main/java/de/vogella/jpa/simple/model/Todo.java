@@ -15,4 +15,8 @@ public class Todo {
 	private Long id;
 	private String summary;
 	private String description;
+	
+	public void fonctionMoi() {
+	//No suggestion	this.get
+	}
 }
